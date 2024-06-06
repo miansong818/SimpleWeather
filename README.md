@@ -11,5 +11,7 @@
 - Icon reference - https://openweathermap.org/weather-conditions
 - Vuetify https://vuetifyjs.com/en/
 
-![image](https://github.com/miansong818/SimpleWeather/assets/106877270/121c3e62-8f15-4e90-bc05-30a9e58a9c38)
+## Screenshot
+
+- ![image](https://github.com/miansong818/SimpleWeather/assets/106877270/121c3e62-8f15-4e90-bc05-30a9e58a9c38)
 
