@@ -1,5 +1,5 @@
 # Description
-- Use Vuetify as the foundamentation framework, Pinia, Axios as the dependencies
+- Use Vuetify as the fundamental framework, Pinia, Axios as the dependencies
 - Use TypeScript and Vue 3 latest features, such as Composition API, <template> render changes..
 - Use pnpm to mananger node_modules
 - Use nvm for node version control, node -v 18.19.0
