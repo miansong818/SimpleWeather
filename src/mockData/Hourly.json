@@ -1,0 +1,69 @@
+{
+    "hourly":[
+    {
+       "temp":30,
+       "humidity":91,
+       "weather":[
+          {
+             "id":803,
+             "main":"Sunny",
+             "description":"clear sky",
+             "icon":"01d"
+          }
+       ],
+       "time": "3:00 pm"
+    },
+    {
+        "temp":308,
+        "humidity":91,
+        "weather":[
+           {
+              "id":803,
+              "main":"Clouds",
+              "description":"broken clouds",
+              "icon":"04n"
+           }
+        ],
+        "time": "4:00 pm"
+     },
+     {
+        "temp":29,
+        "humidity":91,
+        "weather":[
+           {
+              "id":803,
+              "main":"Clouds",
+              "description":"broken clouds",
+              "icon":"04n"
+           }
+        ],
+        "time": "5:00 pm"
+     },
+     {
+        "temp":29,
+        "humidity":91,
+        "weather":[
+           {
+              "id":803,
+              "main":"Clouds",
+              "description":"broken clouds",
+              "icon":"04n"
+           }
+        ],
+        "time": "6:00 pm"
+     },
+     {
+        "temp":28,
+        "humidity":91,
+        "weather":[
+           {
+              "id":803,
+              "main":"Clouds",
+              "description":"broken clouds",
+              "icon":"04n"
+           }
+        ],
+        "time": "7:00 pm"
+     }
+ ]
+}

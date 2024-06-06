@@ -1,0 +1,104 @@
+{
+    "daily":[
+        {
+           "summary":"Expect a sunny day with clear sky",
+           "temp":{
+              "day":299.03,
+              "min":290.69,
+              "max":300.35,
+              "night":291.45,
+              "eve":297.51,
+              "morn":292.55
+           },
+           "weather":[
+              {
+                 "id":500,
+                 "main":"Sunny",
+                 "description":"clear sky",
+                 "icon":"01d"
+              }
+           ],
+           "date": "Fri, Nov 1"
+        },
+        {
+            "summary":"Expect a sunny day with clear sky",
+            "temp":{
+               "day":299.03,
+               "min":290.69,
+               "max":300.35,
+               "night":291.45,
+               "eve":297.51,
+               "morn":292.55
+            },
+            "weather":[
+               {
+                  "id":501,
+                  "main":"Sunny",
+                  "description":"clear sky",
+                  "icon":"01d"
+               }
+            ],
+            "date": "Sat, Nov 2"
+         },
+         {
+            "summary":"Expect a sunny day with clear sky",
+            "temp":{
+               "day":299.03,
+               "min":290.69,
+               "max":300.35,
+               "night":291.45,
+               "eve":297.51,
+               "morn":292.55
+            },
+            "weather":[
+               {
+                  "id":502,
+                  "main":"Sunny",
+                  "description":"clear sky",
+                  "icon":"01d"
+               }
+            ],
+            "date": "Sun, Nov 3"
+         },
+         {
+            "summary":"Expect a sunny day with clear sky",
+            "temp":{
+               "day":299.03,
+               "min":290.69,
+               "max":300.35,
+               "night":291.45,
+               "eve":297.51,
+               "morn":292.55
+            },
+            "weather":[
+               {
+                  "id":503,
+                  "main":"Sunny",
+                 "description":"clear sky",
+                 "icon":"01d"
+               }
+            ],
+            "date": "Mon, Nov 4"
+         },
+         {
+            "summary":"Expect a sunny day with clear sky",
+            "temp":{
+               "day":299.03,
+               "min":290.69,
+               "max":300.35,
+               "night":291.45,
+               "eve":297.51,
+               "morn":292.55
+            },
+            "weather":[
+               {
+                  "id":504,
+                  "main":"Sunny",
+                 "description":"clear sky",
+                 "icon":"01d"
+               }
+            ],
+            "date": "Tue, Nov 5"
+         }
+    ]
+}

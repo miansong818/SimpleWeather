@@ -1,0 +1,488 @@
+{
+    "RIO DE JANEIRO": {
+        "lat":33.44,
+        "lon":-94.04,
+        "timezone":"Brazil/Rio de Janeiro",
+        "timezone_offset":-18000,
+        "hourly":[
+            {
+                "temp":292.01,
+                "humidity":91,
+                "weather":[
+                    {
+                        "id":801,
+                        "main":"Sunny",
+                        "description":"clear Sky",
+                        "icon":"01d"
+                    }
+                ],
+                "time": "12:00 pm"
+            },
+            {
+                "temp":292.01,
+                "humidity":91,
+                "weather":[
+                    {
+                        "id":801,
+                        "main":"Sunny",
+                        "description":"clear Sky",
+                        "icon":"01d"
+                    }
+                ],
+                "time": "12:00 pm"
+            },
+            {
+                "temp":292.01,
+                "humidity":91,
+                "weather":[
+                    {
+                        "id":801,
+                        "main":"Sunny",
+                        "description":"clear Sky",
+                        "icon":"01d"
+                    }
+                ],
+                "time": "12:00 pm"
+            },
+            {
+                "temp":292.01,
+                "humidity":91,
+                "weather":[
+                    {
+                        "id":801,
+                        "main":"Clouds",
+                        "description":"few clouds",
+                        "icon":"02d"
+                    }
+                ],
+                "time": "12:00 pm"
+            }
+        ],
+        "daily":[
+            {
+                "summary":"Expect a day of partly cloudy with rain",
+                "temp":{
+                    "day":299.03,
+                    "min":290.69,
+                    "max":300.35,
+                    "night":291.45,
+                    "eve":297.51,
+                    "morn":292.55
+                },
+                "weather":[
+                    {
+                    "id":500,
+                    "main":"Sunny",
+                    "description":"clear Sky",
+                    "icon":"01d"
+                    }
+                ],
+                "date": "Fri, Nov 1"
+            },
+            {
+                "summary":"Expect a day of partly cloudy with rain",
+                "temp":{
+                   "day":299.03,
+                   "min":290.69,
+                   "max":300.35,
+                   "night":291.45,
+                   "eve":297.51,
+                   "morn":292.55
+                },
+                "weather":[
+                   {
+                      "id":500,
+                      "main":"Rain",
+                      "description":"light rain",
+                      "icon":"10d"
+                   }
+                ],
+                "date": "Sat, Nov 2"
+             },
+             {
+                "summary":"Expect a day of partly cloudy with rain",
+                "temp":{
+                   "day":299.03,
+                   "min":290.69,
+                   "max":300.35,
+                   "night":291.45,
+                   "eve":297.51,
+                   "morn":292.55
+                },
+                "weather":[
+                   {
+                      "id":500,
+                      "main":"Rain",
+                      "description":"light rain",
+                      "icon":"10d"
+                   }
+                ],
+                "date": "Sun, Nov 3"
+             },
+             {
+                "summary":"Expect a day of partly cloudy with rain",
+                "temp":{
+                   "day":299.03,
+                   "min":290.69,
+                   "max":300.35,
+                   "night":291.45,
+                   "eve":297.51,
+                   "morn":292.55
+                },
+                "weather":[
+                   {
+                      "id":500,
+                      "main":"Rain",
+                      "description":"light rain",
+                      "icon":"10d"
+                   }
+                ],
+                "date": "Mon, Nov 4"
+             },
+             {
+                "summary":"Expect a day of partly cloudy with rain",
+                "temp":{
+                   "day":299.03,
+                   "min":290.69,
+                   "max":300.35,
+                   "night":291.45,
+                   "eve":297.51,
+                   "morn":292.55
+                },
+                "weather":[
+                   {
+                      "id":500,
+                      "main":"Rain",
+                      "description":"light rain",
+                      "icon":"10d"
+                   }
+                ],
+                "date": "Tue, Nov 5"
+             }
+        ]
+    },
+    "BEIJING": {
+        "lat":33.44,
+        "lon":-94.04,
+        "timezone":"China/Bei Jing",
+        "timezone_offset":-18000,
+        "hourly":[
+            {
+                "temp":292.01,
+                "humidity":91,
+                "weather":[
+                    {
+                        "id":801,
+                        "main":"Rainny",
+                        "description":"Shower rain",
+                        "icon":"09d"
+                    }
+                ],
+                "time": "12:00 pm"
+            },
+            {
+                "temp":292.01,
+                "humidity":91,
+                "weather":[
+                    {
+                        "id":801,
+                        "main":"Rainny",
+                        "description":"Shower rain",
+                        "icon":"09d"
+                    }
+                ],
+                "time": "12:00 pm"
+            },
+            {
+                "temp":292.01,
+                "humidity":91,
+                "weather":[
+                    {
+                        "id":801,
+                        "main":"Rainny",
+                        "description":"Shower rain",
+                        "icon":"09d"
+                    }
+                ],
+                "time": "12:00 pm"
+            },
+            {
+                "temp":292.01,
+                "humidity":91,
+                "weather":[
+                    {
+                        "id":801,
+                        "main":"Clouds",
+                        "description":"few clouds",
+                        "icon":"02d"
+                    }
+                ],
+                "time": "12:00 pm"
+            }
+        ],
+        "daily":[
+            {
+                "summary":"Expect a day of partly cloudy with rain",
+                "temp":{
+                    "day":299.03,
+                    "min":290.69,
+                    "max":300.35,
+                    "night":291.45,
+                    "eve":297.51,
+                    "morn":292.55
+                },
+                "weather":[
+                    {
+                    "id":500,
+                    "main":"Rain",
+                    "description":"light rain",
+                    "icon":"10d"
+                    }
+                ],
+                "date": "Fri, Nov 1"
+            },
+            {
+                "summary":"Expect a day of partly cloudy with rain",
+                "temp":{
+                   "day":299.03,
+                   "min":290.69,
+                   "max":300.35,
+                   "night":291.45,
+                   "eve":297.51,
+                   "morn":292.55
+                },
+                "weather":[
+                   {
+                      "id":500,
+                      "main":"Rain",
+                      "description":"light rain",
+                      "icon":"10d"
+                   }
+                ],
+                "date": "Sat, Nov 2"
+             },
+             {
+                "summary":"Expect a day of partly cloudy with rain",
+                "temp":{
+                   "day":299.03,
+                   "min":290.69,
+                   "max":300.35,
+                   "night":291.45,
+                   "eve":297.51,
+                   "morn":292.55
+                },
+                "weather":[
+                   {
+                      "id":500,
+                      "main":"Rain",
+                      "description":"light rain",
+                      "icon":"10d"
+                   }
+                ],
+                "date": "Sun, Nov 3"
+             },
+             {
+                "summary":"Expect a day of partly cloudy with rain",
+                "temp":{
+                   "day":299.03,
+                   "min":290.69,
+                   "max":300.35,
+                   "night":291.45,
+                   "eve":297.51,
+                   "morn":292.55
+                },
+                "weather":[
+                   {
+                      "id":500,
+                      "main":"Rain",
+                      "description":"light rain",
+                      "icon":"10d"
+                   }
+                ],
+                "date": "Mon, Nov 4"
+             },
+             {
+                "summary":"Expect a day of partly cloudy with rain",
+                "temp":{
+                   "day":299.03,
+                   "min":290.69,
+                   "max":300.35,
+                   "night":291.45,
+                   "eve":297.51,
+                   "morn":292.55
+                },
+                "weather":[
+                   {
+                      "id":500,
+                      "main":"Rain",
+                      "description":"light rain",
+                      "icon":"10d"
+                   }
+                ],
+                "date": "Tue, Nov 5"
+             }
+        ]
+    },
+    "LOS ANGELES": {
+        "lat":33.44,
+        "lon":-94.04,
+        "timezone":"America/Los Angeles",
+        "timezone_offset":-18000,
+        "hourly":[
+            {
+                "temp":292.01,
+                "humidity":91,
+                "weather":[
+                    {
+                        "id":801,
+                        "main":"Sunny",
+                        "description":"clear Sky",
+                        "icon":"01d"
+                    }
+                ],
+                "time": "12:00 pm"
+            },
+            {
+                "temp":292.01,
+                "humidity":91,
+                "weather":[
+                    {
+                        "id":801,
+                        "main":"Sunny",
+                        "description":"clear Sky",
+                        "icon":"01d"
+                    }
+                ],
+                "time": "12:00 pm"
+            },
+            {
+                "temp":292.01,
+                "humidity":91,
+                "weather":[
+                    {
+                        "id":801,
+                        "main":"Sunny",
+                        "description":"clear Sky",
+                        "icon":"01d"
+                    }
+                ],
+                "time": "12:00 pm"
+            },
+            {
+                "temp":292.01,
+                "humidity":91,
+                "weather":[
+                    {
+                        "id":801,
+                        "main":"Clouds",
+                        "description":"few clouds",
+                        "icon":"02d"
+                    }
+                ],
+                "time": "12:00 pm"
+            }
+        ],
+        "daily":[
+            {
+                "summary":"Expect a day of partly cloudy with rain",
+                "temp":{
+                    "day":299.03,
+                    "min":290.69,
+                    "max":300.35,
+                    "night":291.45,
+                    "eve":297.51,
+                    "morn":292.55
+                },
+                "weather":[
+                    {
+                    "id":500,
+                    "main":"Snow",
+                    "description":"light snow",
+                    "icon":"13d"
+                    }
+                ],
+                "date": "Fri, Nov 1"
+            },
+            {
+                "summary":"Expect a day of partly cloudy with rain",
+                "temp":{
+                   "day":299.03,
+                   "min":290.69,
+                   "max":300.35,
+                   "night":291.45,
+                   "eve":297.51,
+                   "morn":292.55
+                },
+                "weather":[
+                   {
+                      "id":500,
+                      "main":"Rain",
+                      "description":"light rain",
+                      "icon":"10d"
+                   }
+                ],
+                "date": "Sat, Nov 2"
+             },
+             {
+                "summary":"Expect a day of partly cloudy with rain",
+                "temp":{
+                   "day":299.03,
+                   "min":290.69,
+                   "max":300.35,
+                   "night":291.45,
+                   "eve":297.51,
+                   "morn":292.55
+                },
+                "weather":[
+                   {
+                      "id":500,
+                      "main":"Rain",
+                      "description":"light rain",
+                      "icon":"10d"
+                   }
+                ],
+                "date": "Sun, Nov 3"
+             },
+             {
+                "summary":"Expect a day of partly cloudy with rain",
+                "temp":{
+                   "day":299.03,
+                   "min":290.69,
+                   "max":300.35,
+                   "night":291.45,
+                   "eve":297.51,
+                   "morn":292.55
+                },
+                "weather":[
+                   {
+                      "id":500,
+                      "main":"Rain",
+                      "description":"light rain",
+                      "icon":"10d"
+                   }
+                ],
+                "date": "Mon, Nov 4"
+             },
+             {
+                "summary":"Expect a day of partly cloudy with rain",
+                "temp":{
+                   "day":299.03,
+                   "min":290.69,
+                   "max":300.35,
+                   "night":291.45,
+                   "eve":297.51,
+                   "morn":292.55
+                },
+                "weather":[
+                   {
+                      "id":500,
+                      "main":"Rain",
+                      "description":"light rain",
+                      "icon":"10d"
+                   }
+                ],
+                "date": "Tue, Nov 5"
+             }
+        ]
+    }
+}
